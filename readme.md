@@ -1,5 +1,5 @@
-1. Needs to launch on Node blog api- command: "nodemon app.js"
-2. Needs to launch live server on blog app
+                     1. Needs to launch on Node blog api- command: "nodemon app.js"
+                     2. Needs to launch live server on blog app
 
 
 # General TODOS
